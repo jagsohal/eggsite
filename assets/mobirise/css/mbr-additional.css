@@ -1029,3 +1029,54 @@ a {
     padding: 1rem;
   }
 }
+.cid-s5F2tvU44P .mbr-text,
+.cid-s5F2tvU44P .typed-text,
+.cid-s5F2tvU44P .mbr-section-text {
+  letter-spacing: 0.03rem;
+}
+.cid-s5F2tvU44P .btn {
+  margin-left: 4px !important;
+}
+.cid-s5F2tvU44P .animated-element {
+  color: #ffbc00;
+}
+.cid-s5F2tvU44P .typed-cursor {
+  opacity: 1;
+  -webkit-animation: blink 0.7s infinite;
+  -moz-animation: blink 0.7s infinite;
+  animation: blink 0.7s infinite;
+  color: #ffbc00;
+}
+@keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@-webkit-keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@-moz-keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
