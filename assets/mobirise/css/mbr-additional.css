@@ -1038,14 +1038,14 @@ a {
   margin-left: 4px !important;
 }
 .cid-s5JNWxuOOt .animated-element {
-  color: #ff6666;
+  color: #ffb18a;
 }
 .cid-s5JNWxuOOt .typed-cursor {
   opacity: 1;
   -webkit-animation: blink 0.7s infinite;
   -moz-animation: blink 0.7s infinite;
   animation: blink 0.7s infinite;
-  color: #ff6666;
+  color: #ffb18a;
 }
 @keyframes blink {
   0% {
